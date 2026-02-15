@@ -2,7 +2,7 @@
 
 ### Junior Business Application Developer | Perito Elettronico | Studente ITS ICT Piemonte
 
-Sono un professionista con una solida base tecnica in **elettronica** che sta evolvendo verso lo sviluppo di **applicazioni business**. La mia missione è unire la logica dell'hardware con la potenza del software per ottimizzare i processi aziendali e l'Industria 4.0.
+Sono un professionista con base tecnica in **elettronica** che sta evolvendo verso lo sviluppo di **applicazioni business**. La mia missione è unire la logica digitale con la potenza del software per ottimizzare i processi aziendali e l'Industria 4.0.
 
 ---
 
