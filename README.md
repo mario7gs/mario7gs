@@ -1,14 +1,14 @@
-# Ciao, sono Mario! 🇮🇹 👨‍💻
+# Ciao, sono Mario Martins! 🇮🇹 👨‍💻
 
 ### Junior Business Application Developer | Perito Elettronico | Studente ITS ICT Piemonte
 
-Sono un professionista con base tecnica in **elettronica** che sta evolvendo verso lo sviluppo di **applicazioni business**. La mia missione è unire la logica digitale con la potenza del software per ottimizzare i processi aziendali e l'Industria 4.0.
+Sono un professionista con base tecnica in **elettronica** che sta evolvendo verso lo sviluppo di **applicazioni business**. La mia missione è unire logica digitale con la potenza del software per ottimizzare i processi aziendali e l'Industria 4.0.
 
 ---
 
 ## 🚀 Su di me
 - 🎓 **Formazione:** Attualmente frequento il corso di **Business Application Development** presso l'ITS ICT Piemonte (Torino).
-- 🔄 **Transizione:** Sto portando la mia esperienza nel problem solving tecnico verso il mondo **Python**, **C#/.NET** e **SQL**.
+- 🔄 **Transizione:** Sto portando la mia esperienza nel problem solving tecnico verso il mondo **Python**, **C#/.NET**, **SQL**.
 - 🛠️ **Background:** tecnico elettronico.
 - 🎯 **Obiettivo:** Diventare un punto di riferimento nell'integrazione di sistemi ERP e soluzioni software per il settore industriale.
 
@@ -28,7 +28,7 @@ Sono un professionista con base tecnica in **elettronica** che sta evolvendo ver
 ---
 
 ## 📫 Contatti
-- 💼 **LinkedIn:** [mario-s-martins-s-g-simoes](https://www.linkedin.com/in/mario-s-martins-s-g-simoes-2b480636b/)
+- 💼 **LinkedIn:** [mario-martins-s-g-simoes](https://www.linkedin.com/in/mario-martins-s-g-simoes-2b480636b/)
 - 📍 **Posizione:** Torino, Italia
 
 ---
