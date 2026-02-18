@@ -9,7 +9,7 @@ Sono un professionista con base tecnica in **elettronica** che sta evolvendo ver
 ## 🚀 Su di me
 - 🎓 **Formazione:** Attualmente frequento il corso di **Business Application Development** presso l'ITS ICT Piemonte (Torino).
 - 🔄 **Transizione:** Sto portando la mia esperienza nel problem solving tecnico verso il mondo **Python**, **C#/.NET**, **SQL**.
-- 🛠️ **Background:** tecnico elettronico.
+- 🛠️ **Background:** tecnico elettronico, giurisprudenza.
 - 🎯 **Obiettivo:** Diventare un punto di riferimento nell'integrazione di sistemi ERP e soluzioni software per il settore industriale.
 
 ---
