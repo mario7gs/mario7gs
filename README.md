@@ -28,7 +28,7 @@ Sono un professionista con base tecnica in **elettronica** che sta evolvendo ver
 ---
 
 ## 📫 Contatti
-- 💼 **LinkedIn:** [mario-martins-s-g-simoes](https://www.linkedin.com/in/mario-martins-s-g-simoes-2b480636b/)
+- 💼 **LinkedIn:** [mario-s-martins-s-g-simoes](https://www.linkedin.com/in/mario-s-martins-s-g-simoes-2b480636b/)
 - 📍 **Posizione:** Torino, Italia
 
 ---
