@@ -68,7 +68,7 @@ Consistent foundations: 20+ modules from OOP to SOLID to LINQ to MVC / ADO.NET. 
 
 ## Contact
 
-- LinkedIn: [mario-martins-s-g-simoes-2b480636b](https://www.linkedin.com/in/mario-martins-s-g-simoes-2b480636b/)
+- LinkedIn: [mario-martins-s-g-simoes-2b480636b](https://www.linkedin.com/in/mario-s-martins-s-g-simoes-2b480636b/)
 - GitHub: [@mario7gs](https://github.com/mario7gs)
 
 ---
