@@ -50,13 +50,18 @@ Full-stack serverless system: ASP.NET Core 8 API → Service Bus Queue → Event
 
 🔗 https://github.com/mariomartins7gs/OrderSystem
 
-### 3. ITS ICT — C# .NET Coursework
+### 3. Dev Journey Agent — Feature Planning Copilot
 
-Consistent foundations: 20+ modules from OOP to SOLID to LINQ to MVC / ADO.NET. 44 commits.
+A provider-neutral planning pipeline that turns an early feature request into a reviewable, test-oriented delivery package before source-code changes begin.
 
-`C# · .NET · OOP · SOLID · LINQ · MVC · ADO.NET`
+- Reads repository context in read-only mode
+- Refines requirements, definition of done, acceptance cases, critic gate, checkpoints, and evidence
+- Produces an approved plan when the evidence supports it, or `needs_input` when a material ambiguity remains
+- Validated with two end-to-end scenarios: an approved health-check request and an intentionally ambiguous request
 
-🔗 https://github.com/mariomartins7gs/its-ict
+`Python · CLI · GitHub Actions · Provider-neutral LLM wrapper · TDD · Telemetry`
+
+🔗 https://github.com/mario7gs/dev-journey-agent
 
 ---
 
@@ -68,7 +73,7 @@ Consistent foundations: 20+ modules from OOP to SOLID to LINQ to MVC / ADO.NET. 
 
 ## Contact
 
-- LinkedIn: [mario-martins-s-g-simoes-2b480636b](https://www.linkedin.com/in/mario-s-martins-s-g-simoes-2b480636b/)
+- LinkedIn: [mario-martins-s-g-simoes-2b480636b](https://www.linkedin.com/in/mario-martins-s-g-simoes-2b480636b/)
 - GitHub: [@mario7gs](https://github.com/mario7gs)
 
 ---
