@@ -1,12 +1,12 @@
 # Mario Martins — Business Application Developer
 
-### Junior Business Application Developer | ITS ICT Piemonte (BAD 25-27) | Torino, Italy
+### Business Application Developer Trainee | Enterprise Solutions & Process Automation | AI-assisted Planning, Azure & Power Platform
 
 📍 Torino, Italy · 💼 [LinkedIn](https://www.linkedin.com/in/mario-martins-s-g-simoes-2b480636b/) · 💻 [GitHub @mario7gs](https://github.com/mario7gs)
 
-> EN: Electronics technician evolving into business software — Python, C#, SQL and Power Platform to optimize business processes and Industry 4.0. Seeking internship.
+> EN: Business-oriented technology professional transitioning into enterprise solution delivery. Connecting requirements, people and technology through AI-assisted planning, process automation, Azure, Power Platform and business applications. Seeking internship.
 >
-> IT: Perito elettronico in evoluzione verso il software gestionale — Python, C#, SQL e Power Platform per ottimizzare processi aziendali e Industria 4.0. Cerco stage.
+> IT: Professionista tecnologico orientato al business in transizione verso la delivery di soluzioni enterprise. Connetto requisiti, persone e tecnologia attraverso pianificazione assistita dall'AI, automazione dei processi, Azure, Power Platform e applicazioni aziendali. Cerco stage.
 
 ---
 
@@ -18,13 +18,13 @@
 
 **Cloud / Backend:** Azure App Service · Functions · Service Bus · Event Grid · Cosmos DB · ASP.NET Core · CI/CD (GitHub Actions)
 
-**Focus:** Business Logic · Process Automation · ERP Integration · Industry 4.0
+**Focus:** Enterprise Solutions · Requirements Analysis · Process Automation · AI-assisted Planning · ERP Integration · Industry 4.0
 
 ---
 
 ## Featured Projects
 
-> Canonical profile: **@mario7gs**. Featured school projects currently live on `@mariomartins7gs` — consolidation in progress. Links remain valid after transfer via GitHub redirect.
+> Canonical profile: **@mario7gs**. Featured school projects currently live on \`@mariomartins7gs\` — consolidation in progress. Links remain valid after transfer via GitHub redirect.
 
 ### 1. New-Y PowerApp — Team Leader & Power Automate Expert
 
@@ -34,7 +34,7 @@ Role-based sales management app (Agents / Office / Manager) on SharePoint data s
 - Owned 2 Power Automate flows: client status change + stock traffic-light with reorder alerts
 - Designed BC → SharePoint → PowerApp pipeline
 
-`Power Apps · Power Automate · SharePoint · Business Central · Power BI`
+\`Power Apps · Power Automate · SharePoint · Business Central · Power BI\`
 
 🔗 https://github.com/mariomartins7gs/New-Y-PowerApp
 
@@ -44,9 +44,9 @@ Full-stack serverless system: ASP.NET Core 8 API → Service Bus Queue → Event
 
 - REST API: POST / GET orders with Swagger
 - Async background processing via queue + events
-- NoSQL persistence + lessons learned on secrets, Cosmos `id`, env config
+- NoSQL persistence + lessons learned on secrets, Cosmos \`id\`, env config
 
-`C# · .NET 8 · Azure App Service · Functions · Service Bus · Event Grid · Cosmos DB`
+\`C# · .NET 8 · Azure App Service · Functions · Service Bus · Event Grid · Cosmos DB\`
 
 🔗 https://github.com/mariomartins7gs/OrderSystem
 
@@ -56,10 +56,10 @@ A provider-neutral planning pipeline that turns an early feature request into a 
 
 - Reads repository context in read-only mode
 - Refines requirements, definition of done, acceptance cases, critic gate, checkpoints, and evidence
-- Produces an approved plan when the evidence supports it, or `needs_input` when a material ambiguity remains
+- Produces an approved plan when the evidence supports it, or \`needs_input\` when a material ambiguity remains
 - Validated with two end-to-end scenarios: an approved health-check request and an intentionally ambiguous request
 
-`Python · CLI · GitHub Actions · Provider-neutral LLM wrapper · TDD · Telemetry`
+\`Python · CLI · GitHub Actions · Provider-neutral LLM wrapper · TDD · Telemetry\`
 
 🔗 https://github.com/mario7gs/dev-journey-agent
 
